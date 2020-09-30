@@ -1,0 +1,36 @@
+/* include fonts */
+@import url("fonts.css");
+/* css variable */
+@import url("partials/variable.css");
+/* global css */
+@import url('partials/global.css');
+
+body {
+	font-family: var(--montserrat);
+}
+
+/* jumbotron */
+.banner-primary {
+	height: 450px;
+}
+
+.banner-primary .container {
+	text-align: center;
+}
+
+.banner-primary .container h1 {
+	margin-top: 6%;
+}
+
+.form-paket {
+	border-radius: 35px !important;
+}
+
+.search-paket {
+	z-index: 1 !important;
+	margin-top: -5%;
+}
+
+.form-item {
+	margin: 10px 20px 20px 20px !important;
+}

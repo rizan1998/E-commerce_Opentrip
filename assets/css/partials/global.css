@@ -1,0 +1,13 @@
+.site-main .title-section {
+    font-size: 25px;
+    font-weight: 900;
+    color: var(--primary-color);
+    text-shadow: var(--shadow-color);
+    margin-top: 0;
+}
+
+
+.site-main .img-title {
+    margin-top: -3.5%;
+    size: 200px;
+}

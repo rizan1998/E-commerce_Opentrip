@@ -1,0 +1,30 @@
+/* global variable */
+html,
+body {
+    margin: 0%;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%;
+}
+
+:root {
+    --primary-color: #3F3658;
+    --primary-color2: #854fee;
+    --primary-color3: #FFD36F;
+    --title-color: #3F3658;
+    --text-color: #707070;
+    --text-color2: #7a9988;
+    --text-color3: #FFD36F;
+    --text-color4: #F68E1B;
+    --border-color: #201f1f17;
+    --gradient-color: linear-gradient(90deg, #3f3658 100%, #854fee 78%);
+    --gradient-color2: linear-gradient(180deg, rgba(51, 129, 92, 0.5242471988795518) 0%, rgba(26, 65, 46, 0.4598214285714286) 100%);
+
+    --shadow-color: 6px 6px 4px rgba(0, 0, 0, 0.2);
+
+
+
+    /* font family variables */
+    --montserrat: 'Montserrat';
+    --paytone: 'Paytone One', cursive;
+}

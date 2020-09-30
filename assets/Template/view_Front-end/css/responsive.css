@@ -1,0 +1,184 @@
+@media only screen and (max-width: 700px) {
+  .primary-text {
+    font-size: 18px;
+  }
+
+  .secondary-text,
+  .paket-secondary-text {
+    font-size: 12px;
+  }
+
+  .camp {
+    height: 480px;
+  }
+
+  .camp .primary-title-text {
+    font-size: 42px;
+
+  }
+
+  .camp h1 {
+    margin-top: 120px;
+  }
+
+  .camp .secondary-title-text {
+    font-size: 12px;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+
+
+  .mobile-mt {
+    margin-top: 5px;
+  }
+
+  .search_box {
+    width: 83%;
+
+  }
+
+  .search_box input[type="text"] {
+    padding: 8px;
+    padding-right: 60px;
+    font-size: 12px;
+    outline: none;
+  }
+
+  .fa-search {
+    font-size: 16px;
+    right: 15px;
+    top: 48%;
+  }
+
+  .section-stats h2 {
+    font-size: 18px;
+  }
+
+  .section-stats p {
+    font-size: 12px;
+  }
+
+  .section-stats .stats-detail {
+    padding-top: 0px;
+    padding-bottom: 5px;
+  }
+
+  .section-stats {
+    padding: 15px 20px 0px 20px;
+    border-radius: 15px;
+  }
+
+  .section-stats .page-scroll {
+    margin-top: 10px;
+    font-size: 12px;
+    margin-bottom: 10px;
+  }
+
+  .title-think {
+    font-size: 20px;
+  }
+
+  .guide-beranda .img-guide-branda {
+    height: 100px;
+    width: 100px;
+  }
+
+
+  .btn-cart-hv button {
+    height: 25px
+  }
+
+  .hv-primary-text {
+    font-size: 12px;
+  }
+
+  .camping-now-heading {
+    margin-top: 20px;
+    padding-top: 40px;
+  }
+
+  .camping-now-heading h2 {
+    font-size: 25px;
+    margin-top: 50px;
+  }
+
+  .t-p-primary-text {
+    font-size: 25px;
+    margin-top: 20px;
+  }
+
+  .newproduct .container .sec-title {
+    margin-bottom: 40px;
+  }
+
+  .camping-now-heading .btn-camping-now {
+    margin-top: 20px;
+    padding: 8px;
+    background-color: #F99F00;
+    color: black;
+  }
+
+
+  /* detail paket */
+  .section-details-content {
+    margin-top: -385px;
+  }
+
+  .section-details-content .breadcrumb {
+    margin-bottom: 5px;
+    font-size: 15px;
+  }
+
+  .gallery .xzoom-container .xzoom {
+    height: 200px;
+  }
+
+  .card-details h1 {
+    font-size: 16px;
+  }
+
+  .card-details h2 {
+    font-size: 16px;
+  }
+
+  .card-details p {
+    font-size: 14px;
+    color: #b1b1b1;
+  }
+
+  .features h3 {
+    font-size: 16px;
+    margin-bottom: 0;
+  }
+
+  .card-details .trip-informations th {
+    font-size: 15px;
+  }
+
+  .card-details .trip-informations td {
+    font-size: 14px;
+  }
+
+  .designed-by h4 {
+    font-size: 15px;
+  }
+
+  .designed-by {
+    margin-top: 10px;
+  }
+
+  /* kategori opentrip */
+  .category-opentrip {
+    margin-top: -200px;
+  }
+
+  /* login */
+  .form-sign-in {
+    padding-top: 0px;
+  }
+
+}
+
+
+
+@media only screen and (max-width: 992px) {}
